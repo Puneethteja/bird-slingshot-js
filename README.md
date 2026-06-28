@@ -1,5 +1,9 @@
 # Bird Slingshot JS
 
+<a href="https://puneethteja.github.io/bird-slingshot-js/" target="_blank">
+  <img src="https://img.shields.io/badge/Play-Game-brightgreen?style=for-the-badge&logo=appveyor" alt="Play Now" />
+</a>
+
 A physics-based, mobile-responsive projectile game built using **p5.js** and **Matter.js**. 
 
 Inspired by classic physics games, this project allows players to launch birds from a slingshot to clear levels by destroying targets.
